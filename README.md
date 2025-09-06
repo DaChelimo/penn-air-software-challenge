@@ -1,2 +1,2 @@
-# penn-air-software-challenge
-My solution to the Penn Air Software Team Challenge
+# Penn Aerial Robotics - Software Challenge 2025
+
